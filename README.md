@@ -16,7 +16,6 @@ Projeto desenvolvido em dupla para a disciplina de Linguagem de Programação, i
 
 ## ⚙️ Como Executar
 
-``bash
 # Clone o repositório
 git clone https://github.com/Projetos-em-Dupla-Ian-Leo/SistemaAcademico-C.git
 
