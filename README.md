@@ -13,3 +13,18 @@ Projeto desenvolvido em dupla para a disciplina de Linguagem de Programação, i
 * **Linguagem:** C (Padrão C99)
 * **Bibliotecas:** `stdio.h`, `stdlib.h`, `string.h`
 * **Conceitos aplicados:** Ponteiros, Estruturas (Structs), Alocação Dinâmica, Manipulação de Strings.
+
+## ⚙️ Como Executar
+
+``bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/sistema-academico-c.git
+
+# Entre no diretório
+cd sistema-academico-c
+
+# Compile o programa
+gcc -o sistema src/SistemaAcademico.c -Wall -Wextra
+
+# Execute
+./sistema
